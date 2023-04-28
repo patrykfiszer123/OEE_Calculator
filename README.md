@@ -1,4 +1,4 @@
-Kalkulator OEE
+Kalkulator OEE - Python 3.7.0
 
 OEE (Overall Equipment Effectiveness, Całkowita Efektywność Wyposażenia): wskaźnik mierzący efektywność wykorzystania maszyn i urządzeń.
 
