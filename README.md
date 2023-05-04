@@ -8,5 +8,6 @@ Projekt prostego kalkulatora służącego do obliczania wskaźników:
 3. MTTR - średni czas potrzebny do naprawy awarii (ang. Mean time to repair), 
 4. MTBF - średni czas pomiędzy awariami (ang. Mean time between failures)
 
-![Bez tytułu](https://user-images.githubusercontent.com/66118835/235135626-79157867-fe77-4381-bde9-3fa10746ea76.png)
+![image](https://user-images.githubusercontent.com/66118835/236297658-002c70b3-aa5d-439e-8e25-ddcd6bd2cc8a.png)
+
 
